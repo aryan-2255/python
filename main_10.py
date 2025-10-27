@@ -14,10 +14,10 @@ def name_of_function(*args):
 
 
 # Q-2: write a function greet (name) that print personalised greeting message
-# def greet(name):
-#     print((f"welcome to polris school of technology mr.{name}"))
-# name = input("enter the person name: ")
-# greet(name)
+def greet(name):
+    print((f"welcome to polris school of technology mr.{name}"))
+name = input("enter the person name: ")
+greet(name)
 
 
 # Q-3: write a function add(a,b)that takes two numbers and prints theiir sum.

@@ -10,11 +10,11 @@ elif:
 '''
 # question
 # given N a number you are supposed to print yes or no based on the fact wheather it is even or odd
-N = int(input("enter the number:"))
-if N%2 == 0:
-      print("yes")
-else:
-      print("no")
+# N = int(input("enter the number:"))
+# if N%2 == 0:
+#       print("yes")
+# else:
+#       print("no")
 # question
 # stored_username = ("admin")
 # entered_username = (input("enter your name:")).strip()

@@ -49,10 +49,10 @@
 # while i < 10:
 #  i += 1 
 #  print("aryan_",i) 
-#  n = int(input())
-#  sum = 0
-#  i = 1
-#  while i <= n:
+# n = int(input())
+# sum = 0
+# i = 1
+# while i <= n:
 #      sum += i
 #      i += 1
 #      print(sum)
